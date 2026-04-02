@@ -46,7 +46,7 @@ Preface <br>
 13. History of Colonialism
 14. Eurocentrism and Public Education
     
-Postface
+Postface <br>
 Dedication <br>
 Acknowledgement <br>
 Contributors <br>
