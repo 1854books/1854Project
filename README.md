@@ -40,11 +40,11 @@ Preface <br>
 7. Indian Independence Movement
 8. Divide and Rule
 9. Communalism and Politics
-10. Constiutent of Assembly of India
 11. India and The Making of The Modern World
-12. Global Wealth Gap
-13. History of Colonialism
-14. Eurocentrism and Public Education
+12. Constitution of India
+13. Global Wealth Gap
+14. History of Colonialism
+15. Eurocentrism and Public Education
     
 Postface <br>
 Dedication <br>
@@ -90,8 +90,8 @@ meanings—and highlight the ways Indology has shaped discourse.
 ### Indian Independence Movement
 ### Divide and Rule
 ### Communalism and Politics
-### Constiutent of Assembly of India
 ### India and The Making of The Modern World
+### Constitution of India
 ### Global Wealth Gap
 ### History of Colonialism
 ### Eurocentrism and Public Education
