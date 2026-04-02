@@ -45,7 +45,8 @@ Preface <br>
 12. Global Wealth Gap
 13. History of Colonialism
 14. Eurocentrism and Public Education
-
+    
+Postface
 Dedication <br>
 Acknowledgement <br>
 Contributors <br>
