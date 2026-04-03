@@ -46,7 +46,6 @@ Preface <br>
 14. History of Colonialism
 15. Eurocentrism and Public Education
     
-Postface <br>
 Dedication <br>
 Acknowledgement <br>
 Contributors <br>
@@ -95,8 +94,6 @@ meanings—and highlight the ways Indology has shaped discourse.
 ### Global Wealth Gap
 ### History of Colonialism
 ### Eurocentrism and Public Education
-
-## Postface
 
 ## Dedication 
 
