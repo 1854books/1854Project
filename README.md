@@ -44,7 +44,7 @@ Preface <br>
 12. Constitution of India
 13. Global Wealth Gap
 15. Eurocentrism and Public Education
-16. 1854 and World History
+16. 1854 and Historiography
     
 Dedication <br>
 Acknowledgement <br>
@@ -94,7 +94,7 @@ meanings—and highlight the ways Indology has shaped discourse.
 ### Global Wealth Gap
 ### History of Colonialism
 ### Eurocentrism and Public Education
-### 1854 and World History
+### 1854 and Historiography
 
 ## Dedication 
 
