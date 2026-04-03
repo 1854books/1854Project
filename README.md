@@ -43,8 +43,8 @@ Preface <br>
 11. India and The Making of The Modern World
 12. Constitution of India
 13. Global Wealth Gap
-14. History of Colonialism
 15. Eurocentrism and Public Education
+16. 1854 and World History
     
 Dedication <br>
 Acknowledgement <br>
