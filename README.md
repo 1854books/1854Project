@@ -94,6 +94,7 @@ meanings—and highlight the ways Indology has shaped discourse.
 ### Global Wealth Gap
 ### History of Colonialism
 ### Eurocentrism and Public Education
+### 1854 and World History
 
 ## Dedication 
 
